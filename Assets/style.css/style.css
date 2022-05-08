@@ -25,6 +25,8 @@ body {
     color: rgb(0, 0, 0);
     padding: 14px 16px;
     text-decoration: none;
+    display: inline-block;
+    text-align: center;
   }
 
 
@@ -133,4 +135,12 @@ margin: auto;
 
 .footer{
   text-align: center;
+  
+
+}
+
+h2, h4 {
+  text-align: center;
+  color: #000000;
+  
 }
