@@ -9,7 +9,7 @@ h2{
 }
 
 body {
-       background-color:whitesmoke ;
+       background-color:rgb(255, 255, 255) ;
       
 }
 
@@ -49,7 +49,7 @@ body {
     margin: 0; /* Important for vertical align on mobile phones */
   }
   
-  /* Add a red background color to navbar links on hover */
+  /* Add a purple background color to navbar links on hover */
   .navbar a:hover, .dropdown:hover .dropbtn {
     background-color: rgb(35, 36, 66);
   }
