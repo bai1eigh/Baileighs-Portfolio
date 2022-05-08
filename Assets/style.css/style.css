@@ -144,3 +144,22 @@ h2, h4 {
   text-align: center;
   color: #000000
 }
+
+#bai1eigh {
+  vertical-align: middle;
+  width: 100px;
+  height: 100px;
+  margin-top: 170px;
+  display: block;
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  border-color: #16141483; 
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 50%;
+
+ 
+  
+
+}
